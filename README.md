@@ -2,7 +2,7 @@
 <b>Scientific background</b>
 <p>Informatics and Computer Science, MSc in Signal Processing, PhD in Machine Learning and Game Theory for Medical Diagnostics.</p>
 <b>Research interests</b>
-Machine learning, data analytics, signal/image processing, sparse modeling, big data, mobility & flow analytics in aviation/maritime/urban, biomedicine, bioinformatics, medical image analysis, dynamic systems, complex systems.</p>
+<p>Machine learning, data analytics, signal/image processing, sparse modeling, big data, mobility & flow analytics in aviation/maritime/urban, biomedicine, bioinformatics, medical image analysis, dynamic systems, complex systems.</p>
 <b>Work in R&D</b>
 <ul>
   <li>Independent R&D consultant, working in the field since the mid-'90s, collaborating with more than 140 universities, research institutions and companies throughout the world.</li>
