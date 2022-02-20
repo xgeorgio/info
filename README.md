@@ -20,8 +20,8 @@
   <li>Member of the Hellenic Rescue Team of Attica (HRTA, Greece) since 2010, including training in land/mountain rescue, sea/water/scuba rescue, urban rescue (USAR).</li>
   <li>Active LEAR and scientific advisor of HRTA in EU-funded and national R&D projects.</li>
   <li>PADI certified Advanced Open Water Diver (AOWD) - Deep Diving, Advanced Underwater Navigation, Search & Recovery, Peak Buoyancy, Boat Diving.</li>
-  <li>Water Survival School (WSS) – Hellenic Air Force (HAF)</li>
-  <li>Emergency Medical Care – First Responder (EMR) / First Person On Scene level 2</li>
+  <li>Water Survival School (WSS) – Hellenic Air Force (HAF).</li>
+  <li>Emergency Medical Care – First Responder (EMR) / First Person On Scene level 2.</li>
   <li>Wilderness & Remote Locations First Responder (WFA), Emergency Paediatric/Infants First-Aid.</li>
   <li>Automatic External Defibrillator (AED), Emergency O2 Provider.</li>
   <li>Secondary Care (first aid/trauma), surgical sutures (tape, needle).</li>
