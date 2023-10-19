@@ -5,7 +5,7 @@
 <p>Machine learning, data analytics, computational intelligence, signal/image processing, sparse modeling, big data, mobility & flow analytics in aviation/maritime/urban, biomedicine, bioinformatics, medical image analysis, system dynamics, complex systems, emergent AI.</p>
 <b>Work in R&D</b>
 <ul>
-  <li>Independent R&D consultant, working in the field since the mid-'90s, collaborating with more than 140 universities, research institutions and companies throughout the world.</li>
+  <li>Independent R&D consultant, working in the field since the mid-'90s, collaborating with more than 190 universities, research institutions and companies throughout the world.</li>
   <li>Post-doc with the Signal & Image Processing Lab (SIPL) in the University of Athens (UoA/NKUA, Greece) in sparse models for fMRI brain imaging.</li>
   <li>Post-doc with the Data Science Lab (Datastories) in the University of Piraeus (UniPi, Greece) in ML/DA models for aviation/maritime/urban analytics.</li>
   <li>Assistant lecturer for many years with the NKUA and UniPi (Greece), thesis supervisor in BSc and MSc levels.</li>
