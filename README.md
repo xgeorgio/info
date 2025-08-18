@@ -13,7 +13,7 @@
   <li>Member of over 130 technical committees in international scientific journals & conferences since 2008.</li>
 </ul>
 <b>Publications</b>
-<p>About 93 peer-reviewed journal and conference papers in the fields of expertise, another 140 non peer-reviewed articles in events, magazines and invited talks, 2 published books in medical image analysis and computer-aided diagnosis, contribution to another 4 international textbooks in ML/DA, several publicly available datasets, prototype/experimental code and other open-access educational material.</p>
+<p>About 93 peer-reviewed journal and conference papers in the fields of expertise, another 140 non peer-reviewed articles in events, magazines and invited talks, 1 academic textbook in Data Science, 2 books in medical image analysis and computer-aided diagnosis, contribution to another 4 international textbooks in ML/DA, several publicly available datasets, prototype/experimental code and other open-access educational material.</p>
 <b>Programming</b>
 <p>Pretty much every programming language, from x86 Assembly and Fortran/77 in VT100 terminals to Python and Java for web services, including C/C++ for embedded devices and micro-controllers. Special interest in Software Project Management (SPM), Software Quality Assurance (SQA) and software metrics, which are subjects organized for MSc courses (module leader) for many years.</p>
 <b>Rescue/EFR/volunteering</b>
