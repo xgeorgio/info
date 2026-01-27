@@ -32,3 +32,11 @@
   <li>Participated as a volunteer in various humanitarian aid & disaster relief works in Ghana, Lesvos, Piraeus, support of unaccompanied minors and teacher in community schools in Athens.</li>
   <li>Training in streetwork with homeless and addicts, psychological first aid and victim support. Member of MSF Greece and MDM Greece.</li>
 </ul>
+<b>Academic/R&D links:</b>
+<ul>
+  <li><a href="https://scholar.google.com/citations?user=RmIBHiUAAAAJ&hl=en" target="_blank">Google Scholar</a></li>
+  <li><a href="https://www.researchgate.net/profile/Harris_Georgiou" target="_blank">ResearchGate.net</a></li>
+  <li><a href="https://uoa.academia.edu/HarrisGeorgiou" target="_blank">Academia.edu</a></li>
+  <li><a href="https://www.scopus.com/authid/detail.uri?authorId=8251550700" target="_blank">SCOPUS</a></li>
+  <li><a href="https://orcid.org/0000-0003-3462-0745" target="_blank">ORCID</a></li>
+</ul>
