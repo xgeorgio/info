@@ -1,7 +1,7 @@
 # Professional information
-[[works.md]|Works / R&D projects]
 <b>Scientific background</b>
 <p>BSc in Informatics and Computer Science, MSc in Signal Processing, PhD in Machine Learning and Game Theory for Medical Diagnostics.</p>
+<ul><li><a href="works.md">Works / R&D projects</a></li></ul>
 <b>Research interests</b>
 <p>Machine learning, data analytics, computational intelligence, signal/image processing, sparse modeling, big data, mobility & flow analytics in aviation/maritime/urban, industrial process optimization, biomedicine, bioinformatics, medical image analysis, system dynamics, complex systems, emergent intelligence, biocomputing, rescue robotics.</p>
 <b>Work in R&D</b>
