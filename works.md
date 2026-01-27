@@ -1,4 +1,4 @@
-# Works list
+# Works/R&D projects
 <b>Scientific background</b>
 <p>BSc in Informatics and Computer Science, MSc in Signal Processing, PhD in Machine Learning and Game Theory for Medical Diagnostics.</p>
 <b>Research interests</b>
