@@ -14,7 +14,7 @@
   <li>Course leader at BSc/MSc levels for more than 12 years with private colleges and UK-based Universities with branches in Greece.</li>
   <li>Member of over 130 technical committees in international scientific journals & conferences since 2008.</li>
 </ul>
-<ul><li><a href="works.md">Works/R&D projects</a></li>
+<ul><li><a href="works.md">Works / R&D projects</a></li>
     <li><a href="affiliations.md">Affiliations & Services</a></li>
     <li><a href="collaborations.md">Collaborations</a></li></ul>
 
