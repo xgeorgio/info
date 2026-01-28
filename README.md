@@ -1,7 +1,7 @@
 # Personal pages
 <b>Professional / R&D</b>
 <ul>
-  <li><a href="professional.md">Works / R&D projects</a></li>
+  <li><a href="professional.md">R&D Works / Academic / Publications</a></li>
 </ul>
 
 <b>Articles / Writing</b>
