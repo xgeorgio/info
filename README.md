@@ -1,53 +1,37 @@
-# Professional information
-<b>Scientific background</b>
-<p>BSc in Informatics and Computer Science, MSc in Signal Processing, PhD in Machine Learning and Game Theory for Medical Diagnostics.</p>
-
-<b>Research interests</b>
-<p>Machine learning, data analytics, computational intelligence, signal/image processing, sparse modeling, big data, mobility & flow analytics in aviation/maritime/urban, industrial process optimization, biomedicine, bioinformatics, medical image analysis, system dynamics, complex systems, emergent intelligence, biocomputing, rescue robotics.</p>
-
-<b>Work in R&D</b>
+# Personal pages
+<b>Professional / R&D</b>
 <ul>
-  <li>Independent R&D consultant, working in the field since the mid-'90s, collaborating with more than 250 universities, research institutions and companies throughout the world.</li>
-  <li>Post-doc with the Signal & Image Processing Lab (SIPL) in the University of Athens (UoA/NKUA, Greece) in sparse models for fMRI brain imaging.</li>
-  <li>Post-doc with the Data Science Lab (Datastories) in the University of Piraeus (UniPi, Greece) in ML/DA models for aviation/maritime/urban analytics.</li>
-  <li>Assistant lecturer for many years with the NKUA and UniPi (Greece), thesis supervisor in BSc and MSc levels.</li>
-  <li>Course leader at BSc/MSc levels for more than 12 years with private colleges and UK-based Universities with branches in Greece.</li>
-  <li>Member of over 130 technical committees in international scientific journals & conferences since 2008.</li>
-</ul>
-<ul><li><a href="works.md">Works / R&D projects</a></li>
-    <li><a href="affiliations.md">Affiliations & Services</a></li>
-    <li><a href="collaborations.md">Collaborations</a></li></ul>
-
-<b>Publications</b>
-<p>About 97 peer-reviewed journal and conference papers in the fields of expertise, another 148 other articles in events, magazines and invited talks, 1 academic textbook in Data Science, 2 books in medical image analysis and computer-aided diagnosis, contribution to another 9 international textbooks in ML/DA, several publicly available datasets, prototype/experimental code and other open-access educational material.</p>
-<ul><li><a href="books.md">Books published</a></li>
-    <li><a href="publications.md">Publications list</a></li></ul>
-
-<b>Programming</b>
-<p>Pretty much every programming language, from x86 Assembly and Fortran/77 in VT100 terminals to Python and Java for web services, including C/C++ for embedded devices and micro-controllers. Special interest in Software Project Management (SPM), Software Quality Assurance (SQA) and software metrics, which are subjects organized for MSc courses (module leader) for many years.</p>
-
-<b>Rescue/EFR/volunteering</b>
-<ul>
-  <li>Member of the Hellenic Rescue Team of Attica (HRTA, Greece) since 2010, including training in land/mountain rescue, sea/water/scuba rescue, urban rescue (USAR).</li>
-  <li>Active LEAR and scientific advisor of HRTA in EU-funded and national R&D projects.</li>
-  <li>PADI certified Advanced Open Water Diver (AOWD) - Deep Diving, Advanced Underwater Navigation, Search & Recovery, Peak Buoyancy, Boat Diving.</li>
-  <li>Water Survival School (WSS) – Hellenic Air Force (HAF).</li>
-  <li>Emergency Medical Care – First Responder (EMR) / First Person On Scene level 2.</li>
-  <li>Wilderness & Remote Locations First Responder (WFA), Emergency Paediatric/Infants First-Aid.</li>
-  <li>Automatic External Defibrillator (AED), Emergency O2 Provider.</li>
-  <li>Secondary Care (first aid/trauma), surgical sutures (tape, needle).</li>
-  <li>Psychological First Aid (PFA), victim support.</li>
-  <li>Underwater & Wilderness navigation (GPS/compass), stretchers, ropes, abseiling (rapel), wilderness equipment.</li>
-  <li>Civilian communications (HF/VHF/UHF), military communications, CRYPTO devices (NATO).</li>
-  <li>Participated as a volunteer in various humanitarian aid & disaster relief works in Ghana, Lesvos, Piraeus, support of unaccompanied minors and teacher in community schools in Athens.</li>
-  <li>Training in streetwork with homeless and addicts, psychological first aid and victim support. Member of MSF Greece and MDM Greece.</li>
+  <li><a href="professional.md">Works / R&D projects</a></li>
 </ul>
 
-<b>Academic/R&D links:</b>
+<b>Articles / Writing</b>
 <ul>
-  <li><a href="https://scholar.google.com/citations?user=RmIBHiUAAAAJ&hl=en" target="_blank">Google Scholar</a></li>
-  <li><a href="https://www.researchgate.net/profile/Harris_Georgiou" target="_blank">ResearchGate.net</a></li>
-  <li><a href="https://uoa.academia.edu/HarrisGeorgiou" target="_blank">Academia.edu</a></li>
-  <li><a href="https://www.scopus.com/authid/detail.uri?authorId=8251550700" target="_blank">SCOPUS</a></li>
-  <li><a href="https://orcid.org/0000-0003-3462-0745" target="_blank">ORCID</a></li>
+  <li><a href="https://medium.com/@xgeorgio">Medium</a>: Articles, analysis, science communication.</li>
+  <li><a href="https://substack.com/@xgeorgio">Substack</a>: Works as author, commentaries, events.</li>
+  <li><a href="https://methodd.substack.com">Meth0dd</a>: News on STEM, technology, CfP, top papers.</li>
+</ul>
+
+<b>Educational content</b>
+<ul>
+  <li><a href="https://www.youtube.com/@apneacoding" target="_blank">YouTube</a>: Main channel for all video content.</li>
+  <li><a href="https://podcasters.spotify.com/pod/show/apneacoding/" target="_blank">Spotify</a>: Podcasts of audio-only versions.</li>
+  <li><a href="http://apneacoding.blogspot.com/" target="_blank">ApneaCoding (blog)</a>: Main hub for all content, links, updates.</li>  
+</ul>
+
+<b>Social Media</b>
+<ul>
+  <li><a href="https://www.facebook.com/xgeorgio" target="_blank">https://www.facebook.com/xgeorgio</a></li>
+  <li><a href="https://www.linkedin.com/in/xgeorgio/" target="_blank">https://www.linkedin.com/in/xgeorgio</a></li>
+  <li><a href="https://x.com/xgeorgio_gr" target="_blank">https://x.com/xgeorgio_gr</a></li>
+  <li><a href="https://www.threads.com/@xgeorgio_gr" target="_blank">https://www.threads.com/@xgeorgio_gr</a></li>
+  <li><a href="https://www.instagram.com/xgeorgio_gr/" target="_blank">https://www.instagram.com/xgeorgio_gr</a></li>
+  <li><a href="https://www.facebook.com/apneacoding" target="_blank">ApneaCoding @ Facebook</a></li>
+  <li><a href="https://www.linkedin.com/company/apneacoding" target="_blank">ApneaCoding @ LinkedIn</a></li>  
+</ul>
+
+<b>Crisis Management</b>
+<ul>
+  <li><a href="https://sites.google.com/view/gzteam" target="_blank">GZteam @ Επιχειρήσεις (κεντρική)</a></li>
+  <li><a href="https://gzfeed.blogspot.com/" target="_blank">GZteam @ Ροή Ενημέρωσης (blog/RSS)</a></li>
+  <li><a href="https://www.facebook.com/groups/1378907022646640/" target="_blank">GZteam @ Facebook group (forum)</a></li>
 </ul>
