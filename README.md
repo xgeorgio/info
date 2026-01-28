@@ -7,7 +7,7 @@
 <b>Articles / Writing</b>
 <ul>
   <li><a href="https://medium.com/@xgeorgio">Medium</a>: Articles, analysis, science communication.</li>
-  <li><a href="https://substack.com/@xgeorgio">Substack</a>: Works as author, commentaries, events.</li>
+  <li><a href="https://xgeorgio.substack.com/">Substack</a>: Works as author, commentaries, events.</li>
   <li><a href="https://methodd.substack.com">Meth0dd</a>: News on STEM, technology, CfP, top papers.</li>
 </ul>
 
