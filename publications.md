@@ -155,6 +155,8 @@
 <a name="tgMagazines"></a>
 <h2>Magazine Publications</h2>
 
+<dl><dt><strong>It Is Time to Bury the Myth of Nuclear Energy Being 'Safe, Clean, Cheap'</strong></dt><dd>H. Georgiou.<br /><em>Article in The Political Prism, <a href="https://medium.com/@xgeorgio" target="_blank">1 Apr 2026</a></em><br />[<img src="images/PDF4.gif" alt="(pdf)" width="15" height="16" border="0" /> <a href="#" target="_blank">download</a>].</dd></dl>
+
 <dl><dt><strong>Debunking Sam Altman's statement on A.I. needs 'similar to a human's brain'</strong></dt><dd>H. Georgiou.<br /><em>Article in Artificial Intelligence in Plain English, <a href="https://medium.com/@xgeorgio" target="_blank">4 Mar 2026</a></em><br />[<img src="images/PDF4.gif" alt="(pdf)" width="15" height="16" border="0" /> <a href="#" target="_blank">download</a>].</dd></dl>
 
 <dl><dt><strong>Generative A.I. now takes credit of our own original work. This is serious.</strong></dt><dd>H. Georgiou.<br /><em>Article in AI Advances, <a href="https://medium.com/@xgeorgio" target="_blank">21 Feb 2026</a></em><br />[<img src="images/PDF4.gif" alt="(pdf)" width="15" height="16" border="0" /> <a href="#" target="_blank">download</a>].</dd></dl>
