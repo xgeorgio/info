@@ -47,6 +47,7 @@
 <li><a target="_blank" href="https://www.journals.elsevier.com/results-in-engineering/">Results in Engineering</a></li>
 <li><a target="_blank" href="https://www.sciencedirect.com/journal/knowledge-based-systems">Knowledge-based Systems</a></li>
 <li><a target="_blank" href="https://www.sciencedirect.com/journal/progress-in-disaster-science">Progress in Disaster Science (PDISAS)</a></li>
+<li><a target="_blank" href="https://www.sciencedirect.com/journal/journal-of-dynamic-disasters">Journal of Dynamic Disasters (JDD)</a></li>
 
 <li><a target="_blank" href="https://ieeeaccess.ieee.org/">IEEE Access</a></li>
 
