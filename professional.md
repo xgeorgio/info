@@ -19,7 +19,7 @@
     <li><a href="collaborations.md">Collaborations</a></li></ul>
 
 <b>Publications</b>
-<p>About 97 peer-reviewed journal and conference papers in the fields of expertise, another 152 other articles in events, magazines and invited talks, 1 academic textbook in Data Science, 2 books in medical image analysis and computer-aided diagnosis, contribution to another 9 international textbooks in ML/DA, several publicly available datasets, prototype/experimental code and other open-access educational material.</p>
+<p>About 99 peer-reviewed journal and conference papers in the fields of expertise, another 154 other articles in events, magazines and invited talks, 1 academic textbook in Data Science, 2 books in medical image analysis and computer-aided diagnosis, contribution to another 9 international textbooks in ML/DA, several publicly available datasets, prototype/experimental code and other open-access educational material.</p>
 <ul><li><a href="books.md">Books published</a></li>
     <li><a href="publications.md">Publications list</a></li></ul>
 
