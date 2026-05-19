@@ -28,7 +28,7 @@
 
 <dl><dt><strong>Combining aerial and ground unmanned assets in multi-aspect Search and Rescue operations</strong></dt><dd>H. Georgiou, A. Vlachopoulos, A. Andriopoulou<br /><em> <a href="https://iscram2024.ercis.org/" target="_blank">Proc. of the 23rd ISCRAM Conference, Track: Practitioner Insights & Perspectives (ISCRAM 2026)</a>, 31/May-3/Jun 2026 @ The Hague, the Netherlands, ISSN:..., pp. (...), online Proceedings (TBD)</em><br />[<img src="../images/PDF4.gif" alt="(pdf)" width="15" height="16" border="0" /> <a href="https://doi.org/10.5281/zenodo.19892546" target="_blank">paper</a> / <a href="#" target="_blank">presentation</a>]</dd></dl>
 
-<dl><dt><strong>Mission-Critical technological gaps and R&D advancements in Search and Rescue operations</strong></dt><dd>H. Georgiou.<br /><em>Keynote speaker in: Fifth Generation Services HUB for European Union Governmental Satellite Communications (5G-HUB) @ Bresso, Italy, 14-May-2026 (to appear)<br />[<img src="../images/PDF4.gif" alt="(pdf)" width="15" height="16" border="0" /> <a href="https://doi.org/10.5281/zenodo.19664912" target="_blank">presentation</a>]</dd></dl>
+<dl><dt><strong>Mission-Critical technological gaps and R&D advancements in Search and Rescue operations</strong></dt><dd>H. Georgiou.<br /><em>Keynote speaker in: Fifth Generation Services HUB for European Union Governmental Satellite Communications (5G-HUB) @ Bresso, Italy, 14-May-2026<br />[<img src="../images/PDF4.gif" alt="(pdf)" width="15" height="16" border="0" /> <a href="https://doi.org/10.5281/zenodo.19664912" target="_blank">presentation</a>]</dd></dl>
 
 <dl><dt><strong>Technological gaps and advancements in Search and Rescue operations: From R&D to real-world missions</strong></dt><dd>H. Georgiou.<br /><em>In session: “From Policy to Practice: European Innovation and International Collaboration for Safety & Security”, <a href="https://www.ssrr2025.org" target="_blank">IEEE International Symposium on Safety, Security, and Rescue Robotics 2025 (SSRR’25)</a> @ Galway, Ireland, Oct 29-31.</em><a href="https://www.ssrr2025.org" target="_blank">SSRR 2025</a><br />[<img src="../images/PDF4.gif" alt="(pdf)" width="15" height="16" border="0" /> <a href="https://doi.org/10.5281/zenodo.17500695" target="_blank">presentation</a>]</dd></dl>
 
@@ -158,6 +158,9 @@
 
 <a name="tgMagazines"></a>
 <h2>Magazine Publications</h2>
+
+<dl><dt><strong>Debunking Sam Altman’s statement on A.I. needs 'similar to a human’s brain' (in Greek)</strong></dt><dd>H. Georgiou.<br /><em>Article in the Hellenic Informatics Union (HIU) monthly bulletin ("Πληροφορικός"), <a href="https://www.epe.org.gr/periodiki-ekdosi-tis-epe-o-pliroforikos" target="_blank">Issue 32, Jun 2026</a></em><br />[<img src="images/PDF4.gif" alt="(pdf)" width="15" height="16" border="0" /> <a href="#" target="_blank">download</a>].</dd></dl>
+
 
 <dl><dt><strong>Can the CIA Really Detect a Downed Pilot's Heartbeat From Miles Away?</strong></dt><dd>H. Georgiou.<br /><em>Article in The Political Prism, <a href="https://medium.com/@xgeorgio" target="_blank">17 Apr 2026</a></em><br />[<img src="images/PDF4.gif" alt="(pdf)" width="15" height="16" border="0" /> <a href="#" target="_blank">download</a>].</dd></dl>
 
