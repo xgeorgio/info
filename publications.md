@@ -92,6 +92,14 @@
 <p><a name="tgOpenAccess"></a></p>
 <h2>Open-Access Publications</h2>
 
+<dl><dt><strong>Human in the Loop: Alignment and Control in safety-critical and life-or-death decision-making by autonomous machines</strong></dt><dd>H. Georgiou.<br /><em>Technical report / review article, June 2026</a></em> <a href="https://arxiv.org/..." target="_blank">arXiv:...</a><br /> [<img src="images/PDF4.gif" alt="(pdf)" width="15" height="16" border="0" /> <a href="#" target="_blank">download</a>].</dd></dl>
+
+
+
+<dl><dt><strong>Ethics, trust and the A.I. that is coming (in Greek)</strong></dt><dd>H. Georgiou.<br /><em>online lesson / webinar for the Hellenic Informatics Union (HIU), June 2026</a></em> <a href="https://doi.org/10.5281/zenodo.20579373" target="_blank">doi:10.5281/zenodo.20579373</a><br /> [<img src="images/PDF4.gif" alt="(pdf)" width="15" height="16" border="0" /> <a href="#" target="_blank">download</a>].</dd></dl>
+
+<dl><dt><strong>Artemis II: Software, telecommunications and computers in space missions (in Greek)</strong></dt><dd>H. Georgiou.<br /><em>online lesson / webinar for the Hellenic Informatics Union (HIU), June 2026</a></em> <a href="https://doi.org/10.5281/zenodo.20579151" target="_blank">doi:10.5281/zenodo.20579151</a><br /> [<img src="images/PDF4.gif" alt="(pdf)" width="15" height="16" border="0" /> <a href="#" target="_blank">download</a>].</dd></dl>
+
 <dl><dt><strong>Artificial Intelligence: Transient trend or natural evolution? (in Greek)</strong></dt><dd>H. Georgiou.<br /><em>Invited lecture in the University of Piraeus (UniPi), January 2026</a></em> <a href="#" target="_blank">doi:10.5281/zenodo.18390474</a><br /> [<img src="images/PDF4.gif" alt="(pdf)" width="15" height="16" border="0" /> <a href="https://doi.org/10.5281/zenodo.18390474" target="_blank">doi:10.5281/zenodo.18390474</a>].</dd></dl>
 
 <dl><dt><strong>Artificial Intelligence: Transient trend or natural evolution? (in Greek)</strong></dt><dd>H. Georgiou.<br /><em>Presentation for the Greek Artificial Intelligence Network (GAIN), January 2026</a></em> <a href="https://doi.org/10.5281/zenodo.18390411" target="_blank">doi:10.5281/zenodo.18390411</a><br /> [<img src="images/PDF4.gif" alt="(pdf)" width="15" height="16" border="0" /> <a href="#" target="_blank">download</a>].</dd></dl>
