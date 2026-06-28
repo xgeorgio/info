@@ -49,6 +49,7 @@
 <li><a target="_blank" href="https://www.sciencedirect.com/journal/progress-in-disaster-science">Progress in Disaster Science (PDISAS)</a></li>
 <li><a target="_blank" href="https://www.sciencedirect.com/journal/journal-of-dynamic-disasters">Journal of Dynamic Disasters (JDD)</a></li>
 <li><a target="_blank" href="https://ojs.bilpub.com/index.php/tdr">Transportation Development Research (TDR)</a></li>
+<li><a target="_blank" href="https://ojs.ukscip.com/journals/aimh">Al in Medicine and Health (AIMH)</a></li>
 
 <li><a target="_blank" href="https://ieeeaccess.ieee.org/">IEEE Access</a></li>
 

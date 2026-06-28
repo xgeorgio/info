@@ -14,7 +14,9 @@
 <p><a name="tgJournals"></a></p>
 <h2>Journal Publications</h2>
 
-<dl><dt><strong>Unobtrusive Online Sleep Quality Assessment using Pressure Sensing for Parkinson's disease pathologies using spectral clustering</strong></dt><dd>G. Koutalieris, H. Georgiou, et.al.<br /><em><a href="https://www.mdpi.com/journal/make" target="_blank">Machine Learning and Knowledge Extraction (MAKE)</a>, submitted</em> (<a href="#" target="_blank">...</a>).</dd></dl>
+<dl><dt><strong>Assessing UAV, UGV and field communications assets in multi-aspect Search and Rescue operations</strong></dt><dd>H. Georgiou, A. Vlachopoulos, A. Andriopoulou.<br /><em><a href="https://kosmospublishers.org/" target="_blank">Kosmos Publishers</a></em> (<a href="#" target="_blank">...</a>).</dd></dl>
+
+<dl><dt><strong>Unobtrusive Online Sleep Quality Assessment using Pressure Sensing for Parkinson's disease pathologies using spectral clustering</strong></dt><dd>G. Koutalieris, H. Georgiou, et.al.<br /><em><a href="https://www.mdpi.com/journal/make" target="_blank">Machine Learning and Knowledge Extraction (MAKE)</a>, ALAMEDA project</em> (<a href="#" target="_blank">...</a>).</dd></dl>
 
 <dl><dt><strong>Particle Swarm Optimization and RBF Neural Networks for public transport arrival time prediction using GTFS data</strong></dt><dd>E. Chondrodima, H. Georgiou, N. Pelekis, Y. Theodoridis.<br /><em><a href="https://www.journals.elsevier.com/international-journal-of-information-management-data-insights" target="_blank">International Journal of Information Management Data Insights (IJIMDI)</a>, Vol. 2, Issue 2, Nov. 2022, 100086</em> (<a href="https://doi.org/10.1016/j.jjimei.2022.100086" target="_blank">doi: 10.1016/j.jjimei.2022.100086</a>).</dd></dl>
 
@@ -25,6 +27,8 @@
 
 
 <h2>Conference Publications</h2>
+
+<dl><dt><strong>How to run offline Neural Networks and Edge A.I. in micro-controllers with MicroPython</strong></dt><dd>H. Georgiou<br /><em> <a href="https://2026.pycon.gr" target="_blank">Python Conference Greece 2026 (PyCon’26)</a>, 12-13 Oct 2026 @ Athens, Greece. <a href="#" target="_blank">online Proceedings</a></em><br />[<img src="../images/PDF4.gif" alt="(pdf)" width="15" height="16" border="0" /> / <a href="#" target="_blank">presentation</a>]</dd></dl>
 
 <dl><dt><strong>Combining aerial and ground unmanned assets in multi-aspect Search and Rescue operations</strong></dt><dd>H. Georgiou, A. Vlachopoulos, A. Andriopoulou<br /><em> <a href="https://iscram2024.ercis.org/" target="_blank">Proc. of the 23rd ISCRAM Conference, Track: Practitioner Insights & Perspectives (ISCRAM 2026)</a>, 31/May-3/Jun 2026 @ The Hague, the Netherlands, Vol.23 (2026), pp.25-27, <a href="https://ojs.iscram.org/index.php/Proceedings/issue/view/5/3" target="_blank">online Proceedings</a></em><br />[<img src="../images/PDF4.gif" alt="(pdf)" width="15" height="16" border="0" /> <a href="https://doi.org/10.5281/zenodo.19892546" target="_blank">paper</a> / <a href="#" target="_blank">presentation</a>]</dd></dl>
 
@@ -93,8 +97,6 @@
 <h2>Open-Access Publications</h2>
 
 <dl><dt><strong>Human in the Loop: Alignment and Control in safety-critical and life-or-death decision-making by autonomous machines</strong></dt><dd>H. Georgiou.<br /><em>Technical report / review article, June 2026</a></em> <a href="https://arxiv.org/..." target="_blank">arXiv:...</a><br /> [<img src="images/PDF4.gif" alt="(pdf)" width="15" height="16" border="0" /> <a href="#" target="_blank">download</a>].</dd></dl>
-
-
 
 <dl><dt><strong>Ethics, trust and the A.I. that is coming (in Greek)</strong></dt><dd>H. Georgiou.<br /><em>online lesson / webinar for the Hellenic Informatics Union (HIU), June 2026</a></em> <a href="https://doi.org/10.5281/zenodo.20579373" target="_blank">doi:10.5281/zenodo.20579373</a><br /> [<img src="images/PDF4.gif" alt="(pdf)" width="15" height="16" border="0" /> <a href="#" target="_blank">download</a>].</dd></dl>
 
@@ -167,8 +169,9 @@
 <a name="tgMagazines"></a>
 <h2>Magazine Publications</h2>
 
-<dl><dt><strong>Debunking Sam Altman’s statement on A.I. needs 'similar to a human’s brain' (in Greek)</strong></dt><dd>H. Georgiou.<br /><em>Article in the Hellenic Informatics Union (HIU) monthly bulletin ("Πληροφορικός"), <a href="https://www.epe.org.gr/periodiki-ekdosi-tis-epe-o-pliroforikos" target="_blank">Issue 32, Jun 2026</a></em><br />[<img src="images/PDF4.gif" alt="(pdf)" width="15" height="16" border="0" /> <a href="#" target="_blank">download</a>].</dd></dl>
+<dl><dt><strong>Bold Journey Publ. – Interview with H. Georgiou, June 2026</strong></dt><dd>H. Georgiou.<br /><a href="https://www.hiddengeminterviews.com/boldjourney/preview/2581983" target="_blank"><em>(preview)</em></a></em><br />[<img src="images/PDF4.gif" alt="(pdf)" width="15" height="16" border="0" /> <a href="#" target="_blank">download</a>].</dd></dl>
 
+<dl><dt><strong>Debunking Sam Altman’s statement on A.I. needs 'similar to a human’s brain' (in Greek)</strong></dt><dd>H. Georgiou.<br /><em>Article in the Hellenic Informatics Union (HIU) monthly bulletin ("Πληροφορικός"), <a href="https://www.epe.org.gr/periodiki-ekdosi-tis-epe-o-pliroforikos" target="_blank">Issue 32, Jun 2026</a></em><br />[<img src="images/PDF4.gif" alt="(pdf)" width="15" height="16" border="0" /> <a href="#" target="_blank">download</a>].</dd></dl>
 
 <dl><dt><strong>Can the CIA Really Detect a Downed Pilot's Heartbeat From Miles Away?</strong></dt><dd>H. Georgiou.<br /><em>Article in The Political Prism, <a href="https://medium.com/@xgeorgio" target="_blank">17 Apr 2026</a></em><br />[<img src="images/PDF4.gif" alt="(pdf)" width="15" height="16" border="0" /> <a href="#" target="_blank">download</a>].</dd></dl>
 
