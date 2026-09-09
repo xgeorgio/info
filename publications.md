@@ -98,7 +98,7 @@
 <p><a name="tgOpenAccess"></a></p>
 <h2>Open-Access Publications</h2>
 
-<dl><dt><strong>Probabilistic models for live victim extrications in Urban Search and Rescue operations after earthquakes</strong></dt><dd>H. Georgiou.<br /><em>Technical report (preprint), 3-Sept-2026</a></em> <a href="https://doi.org/10.5281/zenodo.22279036" target="_blank">DOI:10.5281/zenodo.22279036</a><br /> [<img src="images/PDF4.gif" alt="(pdf)" width="15" height="16" border="0" /> <a href="#" target="_blank">download</a>].</dd></dl>
+<dl><dt><strong>Probabilistic models for live victim extrications in Urban Search and Rescue operations after earthquakes</strong></dt><dd>H. Georgiou.<br /><em>Technical report (preprint), 3-Sept-2026</a></em> <a href="https://doi.org/10.5281/zenodo.22279036" target="_blank">DOI:10.5281/zenodo.22279036</a> - <a href="https://vixra.org/abs/2609.0017" target="_blank">DOI:vixra.org/abs/2609.0017</a><br /> [<img src="images/PDF4.gif" alt="(pdf)" width="15" height="16" border="0" /> <a href="#" target="_blank">download</a>].</dd></dl>
 
 <dl><dt><strong>Human in the Loop: Alignment and Control in safety-critical and life-or-death decision-making by autonomous machines</strong></dt><dd>H. Georgiou.<br /><em>Technical report / review article, June 2026</a></em> <a href="https://doi.org/10.5281/zenodo.21536956" target="_blank">DOI:10.5281/zenodo.21536956</a><br /> [<img src="images/PDF4.gif" alt="(pdf)" width="15" height="16" border="0" /> <a href="#" target="_blank">download</a>].</dd></dl>
 
