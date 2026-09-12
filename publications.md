@@ -28,6 +28,8 @@
 
 <h2>Conference Publications</h2>
 
+<dl><dt><strong>Probabilistic models for live victim extrications in Urban Search and Rescue operations after earthquakes</strong></dt><dd>H. Georgiou.<br /><em> <a href="https://veltion.ntua.gr/isdtde/conferences/hazards2026.html" target="_blank">1st International Conference on Hazard Assessment, Zonation, Awareness, Response and Safety (HAZARDS ‘26)</a>, 17–19 December 2026 @ Athens, Greece. <a href="#" target="_blank">online Proceedings</a></em><br />[<img src="../images/PDF4.gif" alt="(pdf)" width="15" height="16" border="0" /> / <a href="#" target="_blank">presentation</a>]</dd></dl>
+
 <dl><dt><strong>AI-Powered Unobtrusive Sleep Monitoring and Assessment for Parkinson's Disease Patients: The VESTOR Implementation</strong></dt><dd>G. Koutalieris, M. Papoutsoglou, A. Simitsi, K. Lourentzos, N. Papagiannakis, L. Stefanis, A. Bonakis, H. Georgiou, A. Koubaros, S. Symeonidis, I. Kapsomenaki.<br /><em> <a href="https://conferences.sigappfr.org/bci2026/" target="_blank">12th Balkan Conference in Informatics (BCI’26)</a>, 11–14 October 2026 @ Thessaloniki, Greece. <a href="#" target="_blank">online Proceedings</a></em><br />[<img src="../images/PDF4.gif" alt="(pdf)" width="15" height="16" border="0" /> / <a href="#" target="_blank">presentation</a>]</dd></dl>
 
 <dl><dt><strong>How to run offline Neural Networks and Edge A.I. in micro-controllers with MicroPython</strong></dt><dd>H. Georgiou<br /><em> <a href="#" target="_blank">Python Conference Greece 2026 (PyCon’26)</a>, 12-13 Oct 2026 @ Athens, Greece. (to appear)</em><br />[<img src="../images/PDF4.gif" alt="(pdf)" width="15" height="16" border="0" /> / <a href="#" target="_blank">presentation</a>]</dd></dl>
