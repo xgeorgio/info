@@ -175,6 +175,8 @@
 <a name="tgMagazines"></a>
 <h2>Magazine Publications</h2>
 
+<dl><dt><strong>Reality check: LLMs prioritize responsiveness, not correctness</strong></dt><dd>H. Georgiou.<br /><em>Article in Artificial Intelligence in Plain English, <a href="https://medium.com/@xgeorgio" target="_blank">29 Sept 2026</a></em><br />[<img src="images/PDF4.gif" alt="(pdf)" width="15" height="16" border="0" /> <a href="#" target="_blank">download</a>].</dd></dl>
+
 <dl><dt><strong>The Perfect Storm For AI: Wars, Bubbles and Margin Calls</strong></dt><dd>H. Georgiou.<br /><em>Article in The Political Prism, <a href="https://medium.com/@xgeorgio" target="_blank">17 Aug 2026</a></em><br />[<img src="images/PDF4.gif" alt="(pdf)" width="15" height="16" border="0" /> <a href="#" target="_blank">download</a>].</dd></dl>
 
 <dl><dt><strong>The LLM hype is doomed to stay in the mainstream at the cost of true creativity</strong></dt><dd>H. Georgiou.<br /><em>Article in AI Advances, <a href="https://medium.com/@xgeorgio" target="_blank">16 Aug 2026</a></em><br />[<img src="images/PDF4.gif" alt="(pdf)" width="15" height="16" border="0" /> <a href="#" target="_blank">download</a>].</dd></dl>

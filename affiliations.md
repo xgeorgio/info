@@ -50,9 +50,14 @@
 <li><a target="_blank" href="https://www.sciencedirect.com/journal/journal-of-dynamic-disasters">Journal of Dynamic Disasters (JDD)</a></li>
 <li><a target="_blank" href="https://ojs.bilpub.com/index.php/tdr">Transportation Development Research (TDR)</a></li>
 <li><a target="_blank" href="https://ojs.ukscip.com/journals/aimh">Al in Medicine and Health (AIMH)</a></li>
+<li><a target="_blank" href="https://www.sciencedirect.com/journal/array">Array</a></li>
+<li><a target="_blank" href="https://www.sciencedirect.com/journal/reliability-engineering-and-system-safety">Reliability Engineering and System Safety</a></li>
+<li><a target="_blank" href="https://link.springer.com/journal/11227">Journal of Supercomputing</a></li>
+<li><a target="_blank" href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7361">IEEE Sensors</a></li>
 
 <li><a target="_blank" href="https://ieeeaccess.ieee.org/">IEEE Access</a></li>
 
+<li><a target="_blank" href="https://2027.ieeeicassp.org/">2027 International Conference on Acoustics, Speech and Signal Processing (ICASSP 2027)</a></li>
 <li><a target="_blank" href="https://ijcnn.org/2027">IEEE International Joint Conference on Neural Networks (IJCNN 2027)</a></li>
 <li><a target="_blank" href="https://mlsp26.ieeesps.org/">IEEE International Workshop on Machine Learning for Signal Processing (MLSP 2026)</a></li>
 <li><a target="_blank" href="https://www.icpr2026.org/">28th International Conference on Pattern Recognition (ICPR 2026)</a></li>
